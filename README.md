@@ -86,13 +86,12 @@ AI-based emotion detection system using Python and OpenCV.
 # 📫 Connect With Me
 
 LinkedIn:
-(Add your LinkedIn link here)
+(https://www.linkedin.com/in/tejaswini-n-cse/)
 
 Portfolio:
-(Add your Portfolio link here)
+(https://sites.google.com/view/tejaswini/tech-profiles)
 
 Email:
-(Add your Email)
+(tejaswininataraj003@gmail.com)
 
----
 ⭐ Thanks for visiting my GitHub profile!
