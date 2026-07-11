@@ -1,16 +1,98 @@
-## Hi there 👋
+# 👋 Hi, I'm Tejaswini N
 
-<!--
-**tejaswini-n-cse/tejaswini-n-cse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Computer Science Engineering Student | Python Developer | Full Stack Developer | AI/ML Enthusiast
 
-Here are some ideas to get you started:
+I am a Computer Science Engineering student passionate about building real-world software applications using Python, Flask, SQL, Artificial Intelligence, and Blockchain technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy solving real-world problems through technology and continuously improving my software development skills.
+
+---
+
+## 🚀 About Me
+
+- 🎓 B.E. Computer Science Engineering
+- 📍 Bengaluru, Karnataka, India
+- 🌱 Currently learning Full Stack Development
+- 💡 Interested in AI, Machine Learning and Blockchain
+- 💻 Love building practical software projects
+- 🎯 Looking for Software Engineer and Full Stack Developer opportunities
+
+---
+
+## 🛠️ Technical Skills
+
+### Languages
+- Python
+- C
+- C++
+- SQL
+- HTML
+- CSS
+- JavaScript (Basics)
+
+### Frameworks & Tools
+- Flask
+- MySQL
+- Git
+- GitHub
+- VS Code
+
+### Concepts
+- Data Structures
+- DBMS
+- Operating Systems
+- Computer Networks
+- OOP
+- Machine Learning
+
+---
+
+# 🚀 Projects
+
+## 🗳️ Blockchain Booth-Based Voting System
+
+Secure decentralized voting system using Ethereum, Solidity, React, Node.js and Ganache.
+
+---
+
+## 🏥 Hospital Management System
+
+Developed using Python, Flask and MySQL for managing patients, doctors and appointments.
+
+---
+
+## 🌾 RaithaBandhu
+
+Agriculture management system developed using Flask and MySQL.
+
+---
+
+## 😊 Facial Emotion Recognition
+
+AI-based emotion detection system using Python and OpenCV.
+
+---
+
+# 🏆 Achievements
+
+🥇 1st Place - IDEARUSH 1.0
+
+🥈 2nd Place - CodeQuest Ideathon
+
+🏅 Top 5 - IGNITIA Hackathon
+
+---
+
+# 📫 Connect With Me
+
+LinkedIn:
+(Add your LinkedIn link here)
+
+Portfolio:
+(Add your Portfolio link here)
+
+Email:
+(Add your Email)
+
+---
+⭐ Thanks for visiting my GitHub profile!
