@@ -1,5 +1,3 @@
-<img src="https://github.com/tejaswini-n-cse/tejaswini-n-cse/blob/main/assets/Mysore-Hackathon-2nd-Place.jpg?raw=true" width="300">
-
 # 👋 Hi, I'm Tejaswini N
 
 ## 💻 Computer Science Engineering Student | Python Developer | Full Stack Developer | AI/ML Enthusiast
