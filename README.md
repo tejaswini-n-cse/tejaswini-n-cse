@@ -8,9 +8,7 @@
   </tr>
 </table>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fbc2eb,100:a6c1ee&height=120&section=header&text=Tejaswini%20N&fontSize=38&fontColor=333333&fontAlignY=40&desc=Computer%20Science%20Engineering%20Student&descSize=15&descAlignY=65&descColor=444444" width="100%">
-# 👋 Hi, I'm Tejaswini N
-
-## 💻 Computer Science Engineering Student | Python Developer | Full Stack Developer | AI/ML Enthusiast
+# 💻 Computer Science Engineering Student | Python Developer | Full Stack Developer | AI/ML Enthusiast
 
 I am a Computer Science Engineering student passionate about building real-world software applications using Python, Flask, SQL, Artificial Intelligence, and Blockchain technologies.
 
