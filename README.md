@@ -1,14 +1,12 @@
----
-
-## 🏆 Hackathon Wins
-
-<img src="assets/Mysore%20Hackathon%202nd%20place.jpeg" width="600">
-
-<img src="assets/Mandya%20Hackathon%201st%20place.jpeg" width="600">
-
-<img src="assets/Hyderbad%20Hackathon%205th%20place.jpeg" width="600">
-
-<img src="assets/Manglore%20Hackathon.jpeg" width="600">
+# 🏆 Achievements
+<table>
+  <tr>
+    <td width="25%"><img src="assets/Mysore%20Hackathon%202nd%20place.jpeg" width="100%"></td>
+    <td width="25%"><img src="assets/Mandya%20Hackathon%201st%20place.jpeg" width="100%"></td>
+    <td width="25%"><img src="assets/Hyderbad%20Hackathon%205th%20place.jpeg" width="100%"></td>
+    <td width="25%"><img src="assets/Manglore%20Hackathon.jpeg" width="100%"></td>
+  </tr>
+</table>
 # 👋 Hi, I'm Tejaswini N
 
 ## 💻 Computer Science Engineering Student | Python Developer | Full Stack Developer | AI/ML Enthusiast
