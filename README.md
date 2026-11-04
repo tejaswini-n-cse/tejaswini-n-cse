@@ -1,3 +1,19 @@
+
+<div align="center">
+  <img src="assets/Mysore-Hackathon-2nd-Place.jpg" width="24%" />
+  <img src="assets/Mandya-Hackathon-1st-Place.jpg" width="24%" />
+  <img src="assets/Hyderabad-Hackathon-5th-Place.jpg" width="24%" />
+  <img src="assets/Mangalore-Hackathon.jpg" width="24%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <h1>👋 Hi, I'm Tejaswini N</h1>
+</div>
+
+
+
 # 👋 Hi, I'm Tejaswini N
 
 ## 💻 Computer Science Engineering Student | Python Developer | Full Stack Developer | AI/ML Enthusiast
