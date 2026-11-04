@@ -1,15 +1,6 @@
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/tejaswini-n-cse/tejaswini-n-cse/main/assets/Mysore-Hackathon-2nd-Place.jpg" width="24%" />
-  <img src="https://raw.githubusercontent.com/tejaswini-n-cse/tejaswini-n-cse/main/assets/Mandya-Hackathon-1st-Place.jpg" width="24%" />
-  <img src="https://raw.githubusercontent.com/tejaswini-n-cse/tejaswini-n-cse/main/assets/Hyderabad-Hackathon-5th-Place.jpg" width="24%" />
-  <img src="https://raw.githubusercontent.com/tejaswini-n-cse/tejaswini-n-cse/main/assets/Mangalore-Hackathon.jpg" width="24%" />
-</div>
-
-<br/>
+<img src="https://github.com/tejaswini-n-cse/tejaswini-n-cse/blob/main/assets/Mysore-Hackathon-2nd-Place.jpg?raw=true" width="300">
 
 # 👋 Hi, I'm Tejaswini N
-
 
 ## 💻 Computer Science Engineering Student | Python Developer | Full Stack Developer | AI/ML Enthusiast
 
@@ -96,13 +87,10 @@ AI-based emotion detection system using Python and OpenCV.
 
 # 📫 Connect With Me
 
-LinkedIn:
-(https://www.linkedin.com/in/tejaswini-n-cse/)
+LinkedIn: https://www.linkedin.com/in/tejaswini-n-cse/
 
-Portfolio:
-(https://sites.google.com/view/tejaswini/tech-profiles)
+Portfolio: https://sites.google.com/view/tejaswini/tech-profiles
 
-Email:
-(tejaswininataraj003@gmail.com)
+Email: tejaswininataraj003@gmail.com
 
 ⭐ Thanks for visiting my GitHub profile!
