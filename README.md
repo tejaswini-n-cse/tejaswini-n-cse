@@ -7,6 +7,7 @@
     <td width="25%"><img src="assets/Manglore%20Hackathon.jpeg" width="100%"></td>
   </tr>
 </table>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=160&section=header&text=Tejaswini%20N&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Engineering%20Student&descSize=18&descAlignY=60&descColor=ffffff" width="100%">
 # 👋 Hi, I'm Tejaswini N
 
 ## 💻 Computer Science Engineering Student | Python Developer | Full Stack Developer | AI/ML Enthusiast
